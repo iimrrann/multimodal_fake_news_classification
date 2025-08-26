@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+fakenews_envi/
+fakenews_clip_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.env
